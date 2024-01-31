@@ -98,6 +98,7 @@ marquee{
         border-radius: 5px;
         transition: all .25s linear;
         box-shadow: 0 0 10px rgb(229, 130, 59);
+        margin: auto;
     }
     
     .container > .bar > img{
@@ -139,7 +140,6 @@ marquee{
         position: absolute;
         top: 100%;
         text-shadow: 0 0 20px rgb(215, 100, 5);
-        mix-blend-mode: difference;
     }
 
 }
